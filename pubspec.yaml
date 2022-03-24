@@ -41,6 +41,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  analyzer: 3.3.1
+
   build_runner: ^2.0.0
   freezed: ^1.1.0
   json_serializable: ^6.0.0
